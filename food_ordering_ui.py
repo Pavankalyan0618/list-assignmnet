@@ -3,7 +3,7 @@ import data
 import functions
 def show_main_menu():
   while True:
-    print("Your name diner") #edit to show your name
+    print("Pavan Kalyan diner") #edit to show your name
     print("__________")
     print('N for a new order')
     print('X for close orders and print the check')

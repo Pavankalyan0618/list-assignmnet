@@ -12,5 +12,4 @@ def get_item_information(item_code):
       return item_name.encode("ascii", "ignore").decode(), int(item_price)
 
 def display_items():
-  
-    
+  pass
